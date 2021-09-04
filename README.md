@@ -11,7 +11,9 @@ Different Algorithm that I used here to solve the problem
 Algorithm: LogisticRegression, decision tree, SVM.SVC
 
 Evaluation:
+
 precision-recall  f1-score   support(macro avg and weight avg are used here)
 
 To improve the performance of the classifier, the FeatureUnion is implemented:
+
 The tf-idf value of author, text and title are combined together.
